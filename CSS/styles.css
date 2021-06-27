@@ -1,0 +1,122 @@
+
+
+ #background{
+   background: linear-gradient(rgba(10,30,30,0.5),rgba(10,30,30,0.4)), url('../images/Background_image.webp');
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size:cover;
+   background-position: center;
+   height:95vh;
+
+ }
+h1{
+  text-align: center;
+  color:white;
+  position:relative;
+  margin-top:250px;
+  margin-bottom: 5px;
+  font-family: 'Benne', serif;
+}
+
+h2{
+  color:#02475E;
+  text-align:center;
+  font-family: 'Dancing Script', cursive;
+  font-weight:900;
+}
+
+
+p{
+  text-align: center;
+  color:white;
+
+}
+
+.navbar-brand{
+  font-weight:600;
+  color:white;
+}
+
+.nav-link{
+  color:white;
+}
+
+.card{
+  width:30%;
+  height: 30%;
+}
+
+/* items */
+#items{
+  padding:3% 10% 5% 10%;
+  position:relative;
+  background-color:#fdfaf6 ;
+}
+
+.img{
+  height: 70%;
+  width: 70%;
+  padding-bottom: 5px;
+
+}
+
+h5{
+  color:#bb371a;
+  padding-top:50px;
+}
+
+#contact{
+  background-color:#343a40;
+  margin:20px auto;
+}
+
+#footer{
+  text-align:center;
+
+}
+
+.fa{
+  color:white;
+  padding:30px 5px;
+}
+
+.para{
+  padding-bottom: 20px;
+}
+
+/* ice creams*/
+
+#ice-creams{
+  padding:0% 10% 0% 10%;
+  position:relative;
+}
+
+.ice-cream-img{
+  height: 55%;
+  width:65%;
+}
+
+.ice-cream-img:hover{
+
+
+}
+
+.btn{
+  width:70%;
+  background-color:#343a40;
+  color:white;
+  padding-bottom: 10px;
+  border-color: white;
+}
+
+.btn-btn{
+  width:66%;
+  height:43px;
+  background-color:#343a40;
+  color:white;
+}
+
+.btn-btn:hover{
+  color:blue;
+  text-decoration-color: white;
+}
